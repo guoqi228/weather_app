@@ -1,0 +1,9 @@
+{
+  "employees": [
+    {"name": "Max", "salary":56000 , "title": "Designer" , "attendance": true},
+    {"name": "Jhon", "salary":86000 , "title": "Manager" , "attendance": true},
+    {"name": "Evan", "salary":46000 , "title": "Cook" , "attendance": false},
+    {"name": "Smith", "salary":66000 , "title": "Artist" , "attendance": false},
+    {"name": "Johnson", "salary":116000 , "title": "Data scientist" , "attendance": true}
+  ]
+}
