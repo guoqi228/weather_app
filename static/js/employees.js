@@ -5,6 +5,7 @@ $.get('../../components/header.html', function(response) {
 setTimeout(function() {
   $("#home_link").removeClass("active");
   $("#emp_link").addClass("active");
+  $("#ani_link").removeClass("active");
 }, 5);
 
 function showTable(response) {
