@@ -50,7 +50,7 @@ function showAll(searchTerm) {
   console.log(searchTerm);
   var data = {
     q: searchTerm,
-    APPID: 'a759e4a12aba09eded79eae0f5ac6f06'
+    APPID: ''
   }
 
   $.get(url, data, showWeather);
